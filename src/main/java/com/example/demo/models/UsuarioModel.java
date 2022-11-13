@@ -3,9 +3,8 @@ import javax.persistence.*;
 
 @Entity
 @Table(name = "usuario")
-
-public Class UsuarioModel {
-    @id
+public class UsuarioModel {
+    @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(unique = true, nullable = false)
     private Long id;

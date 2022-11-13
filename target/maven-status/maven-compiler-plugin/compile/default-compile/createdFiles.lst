@@ -1,0 +1,6 @@
+com/example/demo/DemoApplication.class
+com/example/demo/repositories/UsuarioRepository.class
+com/example/demo/controllers/UsuarioController.class
+com/example/demo/models/UsuarioModel.class
+com/example/demo/services/UsuarioService.class
+com/example/demo/ServletInitializer.class
